@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhayrajmalviya
-- 👀 I’m interested in Full Stack Web and App development.
-- 🌱 I’m currently learning React js.
+- 👀 I’m interested in **Full Stack Web and App development**.
+- 🌱 I’m currently learning **React js and Firebase**.
 <!-- - 💞️ I’m looking to collaborate  -->
 - 📫 How to reach me - Email me on abhayrajmalviya@gmail.com
 
